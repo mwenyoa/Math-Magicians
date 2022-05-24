@@ -24,7 +24,7 @@
 - Have some knowledge about JS, HTML and CSS.
 - Understanding of how React.js works
 - Working knowledge of Gitflow
-- Webpack 
+- Webpack JS bundler
 - ES6 modules 
 - Be familiar with git commands
 - Basics understanding of Linters
