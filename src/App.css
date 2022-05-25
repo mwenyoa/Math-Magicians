@@ -17,6 +17,7 @@
   display: flex;
   justify-content: flex-end;
   background-color: rgb(163, 151, 151);
+  color: #fff;
 }
 
 .operator {
