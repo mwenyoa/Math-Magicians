@@ -15,7 +15,7 @@ class Calculator extends Component {
             <button type="button" className="operator operatorTop">AC</button>
             <button type="button" className="operator operatorTop">+/-</button>
             <button type="button" className="operator operatorTop">%</button>
-            <button type="button" className="operator operatorTop operatorRight">*</button>
+            <button type="button" className="operator operatorTop operatorRight  divide">➗</button>
           </div>
           <div className="d-flex">
             <button type="button" className="operand" data="7">7</button>
