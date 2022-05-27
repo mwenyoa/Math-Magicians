@@ -25,9 +25,19 @@
   background-color: #f2e2e2;
 }
 
+.operator:hover {
+  background-color: rgb(0, 57, 180);
+  color: rgb(255, 255, 255);
+}
+
 .operand {
   padding: 20px;
   background-color: #f2e2e2;
+}
+
+.operand:hover {
+  background-color: rgb(0, 57, 180);
+  color: rgb(255, 255, 255);
 }
 
 .flex-d-c {
