@@ -38,7 +38,7 @@ class Calculator extends Component {
           <div className="d-flex">
             <button type="button" className="operand" value="7" onClick={this.handleClick}>7</button>
             <button type="button" className="operand" value="8" onClick={this.handleClick}>8</button>
-            <button type="button" className="operand" value="9">9</button>
+            <button type="button" className="operand" value="9" onClick={this.handleClick}>9</button>
             <button type="button" className="operator operatorRight" value="x" onClick={this.handleClick}>x</button>
           </div>
           <div className="d-flex">
