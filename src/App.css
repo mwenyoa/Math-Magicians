@@ -1,9 +1,15 @@
-
 .calculator-container {
-  padding: 10px;
+  padding: 20px;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 28px;
+  width: 100%;
   margin: 50px auto;
+  justify-content: flex-end;
+}
+
+.Calculator-content {
+  justify-content: flex-end;
+  width: 100%;
 }
 
 .d-flex {
@@ -83,4 +89,35 @@ button {
 .divide {
   color: black;
   font-size: small;
+}
+
+header {
+  background-color: rgb(148, 148, 143);
+  color: rgb(59, 59, 223);
+  font-weight: bold;
+  margin-top: auto;
+  display: flex;
+  height: 8%;
+  font-family: "Poppins", sans-serif;
+  position: fixed;
+  box-shadow: 0 10px 10px 0 rgb(59, 59, 223);
+}
+
+.Home-Description p {
+  line-height: 30px;
+  text-align: justify;
+  font-size: 20px;
+  width: 90%;
+}
+
+.styled-content {
+  padding: 8%;
+  font-size: 20px;
+}
+
+nav {
+  width: 30%;
+  display: flex;
+  gap: 2em;
+  font-family: "Poppins", sans-serif;
 }
