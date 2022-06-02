@@ -19,7 +19,7 @@ function Calculator() {
 
   return (
     <div className="calculator-container d-flex flex-d-c">
-      <div className="calculator-output d-flex j-content-flex-end">
+      <div className="calculator-output d-flex j-content-flex-end" role="none">
         {total}
         {operation}
         {next}
