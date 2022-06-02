@@ -54,6 +54,11 @@
 - Twitter: [@anthony_mwenyo](https://twitter.com/anthony_mwenyo)
 - LinkedIn: [@anthony-mwenyo](https://www.linkedin.com/in/anthony-mwenyo-710318131/)
 
+👤 **Eric Mahare**
+
+- GitHub: [@erikmahare](https://github.com/ericmahare)
+- Twitter: [@erikmahare](https://twitter.com/erikmahare)
+- LinkedIn: [Eric Mahare](https://www.linkedin.com/in/eric-mahare-358944183?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGc83LPvtSs%2BW8o55aCNPKw%3D%3D)
 
 ## 🤝 Contributing
 
