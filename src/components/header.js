@@ -5,9 +5,9 @@ import './header.css';
 const Header = () => (
   <header className="d-flex s-between">
     <h1>Math Magicians</h1>
-    <nav className="d-flex">
+    <nav>
       <Link to="/home">Home</Link>
-      <Link to="/quote">Qoute</Link>
+      <Link to="/quote">Quote</Link>
       <Link to="/Calculator">Calculator</Link>
     </nav>
   </header>

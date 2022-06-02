@@ -94,13 +94,13 @@ button {
 header {
   background-color: rgb(148, 148, 143);
   color: rgb(59, 59, 223);
-  font-weight: bold;
   margin-top: auto;
   display: flex;
-  height: 8%;
+  height: 10%;
   font-family: "Poppins", sans-serif;
   position: fixed;
-  box-shadow: 0 10px 10px 0 rgb(59, 59, 223);
+  box-shadow: 0 8px 8px 0 rgb(59, 59, 223);
+  padding: 10px;
 }
 
 .Home-Description p {
