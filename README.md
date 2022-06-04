@@ -17,6 +17,7 @@
 ## Live Demo
 
 [Netlify Live Demo](https://euphonious-froyo-3103bc.netlify.app)
+[Heroku Live Demo](https://math-magicians-mwenyoa.herokuapp.com/)
 ## Getting Started
 **To get a local copy up and running follow these simple example steps.**
 
